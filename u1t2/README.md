@@ -1,1 +1,1 @@
-This folder contains the Markdown file, scripts and data files from a article about manipulating data on the commandline using \*nix tools. The link to the post is [here](https://dev.to/atdayan/using-basic-awk-sed-and-grep-for-manipulate-real-data-1jlc)
+This folder contains the Markdown file, scripts and data files from a article about manipulating data on the commandline using \*nix tools. The link to the post is [here](https://dev.to/atdayan/using-basic-awk-sed-and-grep-for-manipulate-real-data-1jlc).
