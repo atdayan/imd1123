@@ -9,3 +9,5 @@ As a basis for the classes, the courses available on the dataquest.io platform a
 - [*Elements of the Command Line*](https://app.dataquest.io/view_cert/KRNATTPB9C985H2VJUC2)
 
 - [*Text Processing in the Command Line*](https://app.dataquest.io/view_cert/TVH68CWYRWKA5373SC1Z)
+
+- [*Building a Data Pipeline*](https://app.dataquest.io/view_cert/5CFC4WPL6D4PS2KH30ZS)
